@@ -44,7 +44,7 @@
   }, 1000);
 </script>
 
-<div class="flex flex-col gap-2 justify-center items-center min-h-screen">
+<div class="flex flex-col gap-2 justify-center items-center">
   <span class="text-3xl font-bold lowercase">{timeLeft?.days} days</span>
   <span class="text-3xl font-bold lowercase">{timeLeft?.hours} hours</span>
   <span class="text-3xl font-bold lowercase">{timeLeft?.minutes} minutes</span>

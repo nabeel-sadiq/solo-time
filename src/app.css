@@ -2,3 +2,7 @@
 @plugin "daisyui" {
   themes: black --default;
 }
+
+* {
+  font-family: "Bricolage Grotesque", sans-serif;
+}
